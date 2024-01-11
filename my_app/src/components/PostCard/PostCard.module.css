@@ -1,0 +1,19 @@
+.post_card{
+   padding: 10px;
+   /*border: 2px solid green;*/
+   border-radius: 10px;
+   position: relative;
+}
+.likes{
+   color: white;
+   background-color: yellow;
+   border: 2 solid black;
+   position: absolute;
+   right: 10px;
+   bottom: 5px;
+   padding: 5px;
+   cursor: pointer;
+}
+.likes:hover{
+   background-color: blueviolet;
+}
